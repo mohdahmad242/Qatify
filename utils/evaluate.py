@@ -3,7 +3,7 @@ import time
 
 # Evaluation function
 def evaluate(model, testloader, device):
-    model.eval()
+    # model.eval()
     correct = 0
     total = 0
     inference_times = []

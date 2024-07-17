@@ -11,5 +11,5 @@ A simple Python package to generate mix-precision configuration for different la
 | <li>- [ ] </li> | QAT | | | |  
 | <li>- [ ] </li> | Mix-Precision | | | |  
 ## Methodology
-- Dataset Used  - 
+- Dataset Used  - Cifar-100
 ### Terminology 
